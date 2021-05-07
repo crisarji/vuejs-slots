@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "employee-listing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "normalize.css": "^8.0.1",
+    "tailwindcss": "^1.9.6",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
